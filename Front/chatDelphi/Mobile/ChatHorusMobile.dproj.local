@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/22 19:56:47.000.591,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/25 21:06:54.000.124,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/23 21:14:02.000.321,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/23 21:14:33.000.920,D:\Horus 2022\LP II\Projetos\ChatHorus\Mobile\UnPrincipal.pas=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/23 21:14:33.000.920,D:\Horus 2022\LP II\Projetos\ChatHorus\Mobile\UnPrincipal.fmx=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/23 21:14:53.000.174,D:\Horus 2022\LP II\Projetos\ChatHorus\Mobile\ChatHorusMobile.dproj=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

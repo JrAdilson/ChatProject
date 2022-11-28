@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/22 19:56:47.000.591,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/25 21:06:54.000.124,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:30:26.000.436,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/03 21:32:06.000.734,C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Horus 2022\LP II\Projetos\ChatHorus\Server\UnPrincipal.pas</Transaction>
+    <Transaction>2022/10/03 21:32:06.000.735,C:\Users\renan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Horus 2022\LP II\Projetos\ChatHorus\Server\UnPrincipal.dfm</Transaction>
+    <Transaction>2022/10/03 21:32:22.000.913,C:\Users\renan\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Horus 2022\LP II\Projetos\ChatHorus\Server\ChatHorusServer.dproj</Transaction>
+    <Transaction>2022/10/09 20:50:37.000.715,D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\ChatHorusServer.dproj=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\ChatHorusServerTeste.dproj</Transaction>
+    <Transaction>2022/10/09 21:28:22.000.131,=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/09 21:28:42.000.377,D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\UnDadosDm.dfm=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.dfm</Transaction>
+    <Transaction>2022/10/09 21:28:42.000.377,D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\UnDadosDm.pas=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 21:47:11.000.911,=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 21:48:04.000.770,=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/16 19:41:09.000.405,=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/16 19:41:18.000.333,D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\UnConsultaDados.pas=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\Unit1.pas</Transaction>
+    <Transaction>2022/10/16 20:21:11.000.188,D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\UnChatHorus.Controller.pas=D:\Horus 2022\LP II\Projetos\ChatHorusTeste\Server\UnConsultaDados.pas</Transaction>
+  </Transactions>
+</BorlandProject>
