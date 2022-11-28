@@ -99,7 +99,6 @@
                     this.participante.id = part.id
                     this.participante.nome = part.nome
                 })
-                console.log(this.participante.id)
             })  
             await this.$http.get(`/chats?idusuario=${this.pessoa.id}`).then((resp) => {
                 this.lastChats = resp.data.length
@@ -112,10 +111,8 @@
             async newChat() {
                 let temp = '' + this.participante.id
                 let participantesArray = [...temp].reduce((acc, n) => acc.concat(+n), [])
-                console.log(participantesArray)
                 const params = {nome: this.chat.nome, descricao: this.chat.descricao, idusuariologado: this.pessoa.id, participantes: this.participantesArray}
                 await this.$http.post(`/chat`, JSON.stringify(params)).then((resp) => {
-                    console.log(resp)
                     this.attGroups();
                 })
             },
@@ -124,7 +121,6 @@
                 await this.$http.get(`/chats?idusuario=${this.pessoa.id}`).then(async (resp) => {
                     localStorage.setItem('chats', JSON.stringify(resp.data));
                     this.chats = resp.data
-                    console.log(this.chats)
                 })
             },
         }
