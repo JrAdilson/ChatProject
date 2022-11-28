@@ -1,7 +1,7 @@
 <template>
     <div>
         <v-card class="navigator" height="100%" width="256">
-            <v-navigation-drawer app class="deep-purple accent-4" darkpermanent>
+            <v-navigation-drawer app color="#7B68EE" darkpermanent>
                 <v-list>
                     <v-list-item class="navbar">
                         <h3 width="30px" style="padding-right: 15px; color: white"> <b> {{pessoa.id}} </b></h3>
@@ -46,6 +46,7 @@
                     :items="this.participante.id + ' ' + this.participante.nome"
                     label="Participantes"
                     multiple
+                    v-model="participante"
                 ></v-autocomplete>
             </v-card>
             <v-btn @click="newChat" style="background-color:green; color: white">Adicionar</v-btn>

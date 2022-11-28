@@ -5,7 +5,7 @@
                 <v-img style="margin-left: 20px" width="50" height="50" cover src="../assets/bg.png"></v-img>
             </div>
         </header>   
-        <div class="group-box" style="background: pink; flex: 1; overflow-y: auto">
+        <div class="group-box" style="background: #7B68EE; flex: 1; overflow-y: auto">
             <div class="text-outer">
                 <v-row v-for="mensagem in mensagens" :key="mensagem.id">
                     <v-col :align="mensagem.proprioautor == 'sim' ? 'right' : 'left'">
@@ -25,10 +25,10 @@
             </div>
         </div>
         <footer class="footer">
-            <div style="min-height: 60px; background: pink">
+            <div style="min-height: 60px; background: #7B68EE">
                 <div style="display: flex; padding: 15px">
                     <input class="input" type="text" style="width: 85%; border: 1px solid; border-radius: 4px; padding: 3px 6px;" v-model="inputMsg"/>
-                    <v-img class="pointer" src="../assets/send.png" alt="send" width="30" height="30" @click="sendMsg"/>
+                    <v-btn style="background-color:#9370DB" class="pointer" prepend-inner-icon="mdi-send" alt="send" width="30" height="30" @click="sendMsg"><v-icon>mdi-send</v-icon></v-btn>
                 </div>
             </div>
         </footer>
